@@ -146,4 +146,4 @@ SCRIPTS="C:/Users/Administrator/.workbuddy/skills/web-design-forge/scripts"
 - 设计智能数据库与检索引擎：`claude-code-ui-ux-skill`（作者 @nicohodt，MIT 协议）
 - 28 项获奖技术、Anti-Gravity 创意哲学、Spline 3D 章节：GENESIS `ui-ux-gold-standard`（作者 Miguel Jiminez，MIT 协议）
 - 个人主页/HTML PPT 双模式工作流、19 风格预设、主页模板库：`personal-homepage-skill`（作者 powerycy / 升级打怪，**非商业许可**，仅限非商业用途）
-- 部署上线流程与踩坑清单：自有技能 `web-deploy-publisher`（申澈明实战经验沉淀，2026-08 起）
+- 部署上线流程与踩坑清单：自有技能 `web-deploy-publisher`（作者实战经验沉淀，2026-08 起）
